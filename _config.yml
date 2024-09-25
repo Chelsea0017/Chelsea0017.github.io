@@ -22,13 +22,13 @@ repository               : "Chelsea0017/Chelsea0017.github.io"
 author:
   # Biographic information
   avatar           : "Wechat.png"
-  name             : "Chelsea"
+  name             : "Mandy"
   pronouns         : # example: "she/her"  
   bio              : "我是一个可爱的小女孩"
   location         : "上海市"
   employer         : "SUFE"
   uri              : # URL
-  email            : "这是一个邮箱地址 哈哈哈哈哈哈" 
+  email            : # 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
