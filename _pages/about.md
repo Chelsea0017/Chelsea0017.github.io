@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [SPEA](https://spea.sufe.edu.cn), [SUEFE](https://www.sufe.edu.cn). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year undergraduate student from [SPEA](https://spea.sufe.edu.cn), [SUFE](https://www.sufe.edu.cn). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
