@@ -11,7 +11,7 @@ I'm a third year undergraduate student from [SPEA](https://spea.sufe.edu.cn), [S
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/国际贸易总结.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:18903413934@163.com) / [Github](https://github.com/Chelsea0017) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 
 A data-driven personal website
 ======
