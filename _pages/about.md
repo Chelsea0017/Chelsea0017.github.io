@@ -15,16 +15,16 @@ You can find my CV here: [XX's Curriculum Vitae](../assets/国际贸易总结.pd
 
 教育经历
 ======
-本科 巴拉巴拉
+本科 ABC university
 
-研究生 巴拉巴拉
+研究生 ABC university
 
-博士 巴拉巴拉
+博士 ABC university
 
 工作论文
 ======
-1. 第一篇巴拉巴拉
-2. 第二篇巴拉巴拉
+1. ABC
+2. ABC
 
 Site-wide configuration
 ------
